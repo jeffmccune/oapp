@@ -1,6 +1,8 @@
-# Oapp
+# OApp
 
-TODO: Write a gem description
+This Ruby Gem library makes it easier to write a simple Ruby Web App with
+authentication using OAuth.  The goal is to make it easy to write a webapp and
+authenticate against your Google Apps domain or Github organization.
 
 ## Installation
 
@@ -10,7 +12,7 @@ Add this line to your application's Gemfile:
 
 And then execute:
 
-    $ bundle
+    $ bundle install --path .bundle/gems/
 
 Or install it yourself as:
 
